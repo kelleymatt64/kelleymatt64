@@ -8,5 +8,6 @@ I'm a Deskside Support IT professional making the move into cybersecurity, worki
 - **Training:** TryHackMe SOC Level 1 path
 
 🛠️ Tools & Tech stack
+
 Splunk · Sysmon · pfSense · Active Directory · Windows Server · Kali Linux · VirtualBox · PowerShell
 
